@@ -605,16 +605,16 @@ body {
   transform: rotateY(180deg);
 }
 .main .one {
-  background-image: url(/assets/scisorssmall.webp);
+  background-image: url(scisorssmall.webp);
 }
 .main .two {
-  background-image: url(/assets/colorbig.jpg);
+  background-image: url(colorbig.jpg);
 }
 .main .four {
-  background-image: url(/assets/haistylingbiggold.webp);
+  background-image: url(haistylingbiggold.webp);
 }
 .main .three {
-  background-image: url(/assets/shaverbiggold.webp);
+  background-image: url(shaverbiggold.webp);
 }
 .main .offer-cards__card--text {
   position: absolute;
